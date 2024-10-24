@@ -1,0 +1,2 @@
+lib example   examprod  {*pgm  *cmd *dspf}
+sql exampdata examppdata {*table *index *procedure  *function}
